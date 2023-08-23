@@ -5,16 +5,16 @@ Desafio curso básico htlm da dio.me
 
 Criando seu Primeiro Site Completo com HTML
 
-Entendo o Desafio
+Entendo o Desafio 📂🗂️
  
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+📖📎Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 Formulários
 Estruturação e formatação de texto
 Mídias
 Tabelas
 Além de outros recursos falados nas aulas!
  
-Instruções
+Instruções ⌨️💾
 Você deve criar um site de uma clínica médica (você escolhe a especialidade)
 Este site deve conter o seguinte menu de navegação:
 Página Principal
@@ -26,7 +26,7 @@ Abaixo como cada página deve ser criada e estruturada.
 Estrutura das Páginas
 Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo template.html para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
 
-* No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma.
+* 🖥️👩‍💻💻No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma.
 No Menu, ficará localizado o menu de navegação (ah vá!), no Header de cada página ficará uma imagem, no Footer informações de contato, e o Content é o conteúdo de cada página.
 Página Principal
 Deve ter uma imagem no Header.
